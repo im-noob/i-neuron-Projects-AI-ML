@@ -1,0 +1,1219 @@
+{
+  "timexes": [
+    {
+      "id": 0,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "July 24, 1962",
+      "typ": "date",
+      "touched": false,
+      "sent": "Herbert Raymond \"H. R.\" McMaster (born July 24, 1962) is a United States Army lieutenant general and the incoming National Security Advisor to United States President Donald Trump.",
+      "sub": "Herbert Raymond \"H. R.\" McMaster",
+      "sentNr": 1,
+      "val": "19620724",
+      "title": "24 Jul 1962",
+      "mod": "",
+      "count": 1,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": -234810000000,
+          "ending_time": -234810000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 1,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1997",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster authored the book Dereliction of Duty in 1997, which criticized the actions of high ranking U.S. military leadership during the Vietnam War.",
+      "sub": "McMaster authored the book Dereliction",
+      "sentNr": 5,
+      "val": "1997",
+      "title": "1997",
+      "mod": "",
+      "count": 2,
+      "yIndex": 2,
+      "times": [
+        {
+          "starting_time": 852076800000,
+          "ending_time": 852076800000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 2,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "July 24, 1962",
+      "typ": "date",
+      "touched": false,
+      "sent": "Early life and education     McMaster was born in Philadelphia on July 24, 1962.",
+      "sub": "Early life and education ",
+      "sentNr": 6,
+      "val": "19620724",
+      "title": "24 Jul 1962",
+      "mod": "",
+      "count": 2,
+      "yIndex": 2,
+      "times": [
+        {
+          "starting_time": -234810000000,
+          "ending_time": -234810000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 3,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1980",
+      "typ": "date",
+      "touched": false,
+      "sent": "He went to high school at Valley Forge Military Academy, graduating in 1980.",
+      "sub": "He went to high school",
+      "sentNr": 7,
+      "val": "1980",
+      "title": "1980",
+      "mod": "",
+      "count": 1,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": 315532800000,
+          "ending_time": 315532800000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 4,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1984",
+      "typ": "date",
+      "touched": false,
+      "sent": "He earned a commission as a second lieutenant upon graduating from the United States Military Academy at West Point in 1984.",
+      "sub": "He earned a commission as",
+      "sentNr": 8,
+      "val": "1984",
+      "title": "1984",
+      "mod": "",
+      "count": 1,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": 441763200000,
+          "ending_time": 441763200000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 5,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1997",
+      "typ": "date",
+      "touched": false,
+      "sent": "His thesis was critical of American strategy in the Vietnam War, which was further detailed in his 1997 book Dereliction of Duty.",
+      "sub": "His thesis was critical of",
+      "sentNr": 10,
+      "val": "1997",
+      "title": "1997",
+      "mod": "",
+      "count": 1,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": 852076800000,
+          "ending_time": 852076800000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 6,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1989",
+      "typ": "date",
+      "touched": false,
+      "sent": "In 1989, McMaster was assigned to the 2nd Armored Cavalry Regiment at Warner Barracks in Bamberg, Germany, where he served until 1992, including deployment to Operation Desert Storm.",
+      "sub": "In 1989, McMaster was assigned",
+      "sentNr": 18,
+      "val": "1989",
+      "title": "1989",
+      "mod": "",
+      "count": 1,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": 599616000000,
+          "ending_time": 599616000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 7,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1992",
+      "typ": "date",
+      "touched": false,
+      "sent": "In 1989, McMaster was assigned to the 2nd Armored Cavalry Regiment at Warner Barracks in Bamberg, Germany, where he served until 1992, including deployment to Operation Desert Storm.",
+      "sub": "In 1989, McMaster was assigned",
+      "sentNr": 18,
+      "val": "1992",
+      "title": "1992",
+      "mod": "",
+      "count": 1,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": 694224000000,
+          "ending_time": 694224000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 8,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1991",
+      "typ": "date",
+      "touched": false,
+      "sent": "During the Gulf War in 1991 he was a captain commanding Eagle Troop of the 2nd Armored Cavalry Regiment at the Battle of 73 Easting.",
+      "sub": "During the Gulf War in",
+      "sentNr": 19,
+      "val": "1991",
+      "title": "1991",
+      "mod": "",
+      "count": 1,
+      "yIndex": 2,
+      "times": [
+        {
+          "starting_time": 662688000000,
+          "ending_time": 662688000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 9,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1994",
+      "typ": "date",
+      "touched": false,
+      "sent": "It also receives coverage in Tom Clancy's 1994 popular non-fiction book Armored Cav.",
+      "sub": "It also receives coverage in",
+      "sentNr": 23,
+      "val": "1994",
+      "title": "1994",
+      "mod": "",
+      "count": 1,
+      "yIndex": 2,
+      "times": [
+        {
+          "starting_time": 757382400000,
+          "ending_time": 757382400000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 10,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1994 to 1996",
+      "typ": "duration",
+      "touched": false,
+      "sent": "McMaster served as a military history professor at West Point from 1994 to 1996, teaching among other things the battles in which he fought.",
+      "sub": "McMaster served as a military",
+      "sentNr": 24,
+      "val": "1994 - 1996",
+      "title": "1994 - 1996",
+      "mod": "",
+      "count": 1,
+      "yIndex": 3,
+      "times": [
+        {
+          "starting_time": 757382400000,
+          "ending_time": 820454400000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 11,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1999",
+      "typ": "date",
+      "touched": false,
+      "sent": "He graduated from the United States Army Command and General Staff College in 1999.",
+      "sub": "He graduated from the United",
+      "sentNr": 25,
+      "val": "1999",
+      "title": "1999",
+      "mod": "",
+      "count": 1,
+      "yIndex": 4,
+      "times": [
+        {
+          "starting_time": 915148800000,
+          "ending_time": 915148800000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 12,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "1999 to 2002",
+      "typ": "duration",
+      "touched": false,
+      "sent": "From 1999 to 2002, McMaster commanded 1st Squadron, 4th Cavalry Regiment, and then took a series of staff positions at U.S. Central Command (USCENTCOM), including planning and operations roles in Iraq.",
+      "sub": "From 1999 to 2002, McMaster",
+      "sentNr": 26,
+      "val": "1999 - 2002",
+      "title": "1999 - 2002",
+      "mod": "",
+      "count": 2,
+      "yIndex": 5,
+      "times": [
+        {
+          "starting_time": 915148800000,
+          "ending_time": 1009843200000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 13,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "2004",
+      "typ": "date",
+      "touched": false,
+      "sent": "In 2004, he was assigned to command the 3rd Armored Cavalry Regiment (3rd ACR).",
+      "sub": "In 2004, he was assigned",
+      "sentNr": 30,
+      "val": "2004",
+      "title": "2004",
+      "mod": "",
+      "count": 1,
+      "yIndex": 3,
+      "times": [
+        {
+          "starting_time": 1072915200000,
+          "ending_time": 1072915200000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 14,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "September",
+      "typ": "date",
+      "touched": false,
+      "sent": "That mission culminated in September with Operation Restoring Rights and the defeat of the city's insurgent strongholds.",
+      "sub": "That mission culminated in September",
+      "sentNr": 32,
+      "val": "201609",
+      "title": "Sep 2016",
+      "mod": "",
+      "count": 1,
+      "yIndex": 4,
+      "times": [
+        {
+          "starting_time": 1472713200000,
+          "ending_time": 1472713200000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 15,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "February 2006",
+      "typ": "date",
+      "touched": false,
+      "sent": "President Bush praised this success, and the PBS show Frontline broadcast a documentary in February 2006 featuring interviews with McMaster.",
+      "sub": "President Bush praised this success,",
+      "sentNr": 33,
+      "val": "200602",
+      "title": "Feb 2006",
+      "mod": "",
+      "count": 1,
+      "yIndex": 7,
+      "times": [
+        {
+          "starting_time": 1138780800000,
+          "ending_time": 1138780800000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 16,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "60 Minutes",
+      "typ": "neither",
+      "touched": false,
+      "sent": "CBS' 60 Minutes produced a similar segment in July, and the operation was the subject of an article in the April 10, 2006, issue of The New Yorker.",
+      "sub": "CBS' 60 Minutes produced a",
+      "sentNr": 34,
+      "val": "????",
+      "title": "????",
+      "mod": "",
+      "count": 1,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": "????",
+          "ending_time": "????"
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 17,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "July",
+      "typ": "date",
+      "touched": false,
+      "sent": "CBS' 60 Minutes produced a similar segment in July, and the operation was the subject of an article in the April 10, 2006, issue of The New Yorker.",
+      "sub": "CBS' 60 Minutes produced a",
+      "sentNr": 34,
+      "val": "201607",
+      "title": "Jul 2016",
+      "mod": "",
+      "count": 1,
+      "yIndex": 2,
+      "times": [
+        {
+          "starting_time": 1467356400000,
+          "ending_time": 1467356400000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 18,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "April 10, 2006",
+      "typ": "date",
+      "touched": false,
+      "sent": "CBS' 60 Minutes produced a similar segment in July, and the operation was the subject of an article in the April 10, 2006, issue of The New Yorker.",
+      "sub": "CBS' 60 Minutes produced a",
+      "sentNr": 34,
+      "val": "20060410",
+      "title": "10 Apr 2006",
+      "mod": "",
+      "count": 1,
+      "yIndex": 8,
+      "times": [
+        {
+          "starting_time": 1144652400000,
+          "ending_time": 1144652400000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 19,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "2005",
+      "typ": "date",
+      "touched": false,
+      "sent": "Prior to 2005, tactics included staying out of dangerous urban areas except on patrols, with US forces returning to their bases each night.",
+      "sub": "Prior to 2005, tactics included",
+      "sentNr": 36,
+      "val": "2005",
+      "title": "2005",
+      "mod": "",
+      "count": 1,
+      "yIndex": 4,
+      "times": [
+        {
+          "starting_time": 1104537600000,
+          "ending_time": 1104537600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 20,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "nightly",
+      "typ": "neither",
+      "touched": false,
+      "sent": "McMaster deployed his soldiers into Tal Afar on a permanent basis, and once the local population grew confident that they weren't going to withdraw nightly, the citizens began providing information on the insurgents, enabling US forces to target and defeat them.",
+      "sub": "McMaster deployed his soldiers into",
+      "sentNr": 38,
+      "val": "????",
+      "title": "????",
+      "mod": "",
+      "count": 4,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": "????",
+          "ending_time": "????"
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 21,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "June 29, 2006",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster passed command of the 3rd ACR on June 29, 2006 and joined the International Institute for Strategic Studies in London, as a Senior Research Associate with a mandate described as \"conduct research to identify opportunities for improved multi-national cooperation and political-military integration in the areas of counterinsurgency, counter-terrorism, and state building\", and to devise \"better tactics to battle terrorism.\"    From August 2007 to August 2008 McMaster was part of an \"elite team of officers advising US commander\" General David Petraeus on counterinsurgency operations while Petraeus directed revision of the Army's Counterinsurgency Field Manual during his command of the Combined Arms Center.",
+      "sub": "McMaster passed command of the",
+      "sentNr": 39,
+      "val": "20060629",
+      "title": "29 Jun 2006",
+      "mod": "",
+      "count": 1,
+      "yIndex": 3,
+      "times": [
+        {
+          "starting_time": 1151564400000,
+          "ending_time": 1151564400000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 22,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "August 2007",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster passed command of the 3rd ACR on June 29, 2006 and joined the International Institute for Strategic Studies in London, as a Senior Research Associate with a mandate described as \"conduct research to identify opportunities for improved multi-national cooperation and political-military integration in the areas of counterinsurgency, counter-terrorism, and state building\", and to devise \"better tactics to battle terrorism.\"    From August 2007 to August 2008 McMaster was part of an \"elite team of officers advising US commander\" General David Petraeus on counterinsurgency operations while Petraeus directed revision of the Army's Counterinsurgency Field Manual during his command of the Combined Arms Center.",
+      "sub": "McMaster passed command of the",
+      "sentNr": 39,
+      "val": "200708",
+      "title": "Aug 2007",
+      "mod": "",
+      "count": 1,
+      "yIndex": 4,
+      "times": [
+        {
+          "starting_time": 1185951600000,
+          "ending_time": 1185951600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 23,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "August 2008",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster passed command of the 3rd ACR on June 29, 2006 and joined the International Institute for Strategic Studies in London, as a Senior Research Associate with a mandate described as \"conduct research to identify opportunities for improved multi-national cooperation and political-military integration in the areas of counterinsurgency, counter-terrorism, and state building\", and to devise \"better tactics to battle terrorism.\"    From August 2007 to August 2008 McMaster was part of an \"elite team of officers advising US commander\" General David Petraeus on counterinsurgency operations while Petraeus directed revision of the Army's Counterinsurgency Field Manual during his command of the Combined Arms Center.",
+      "sub": "McMaster passed command of the",
+      "sentNr": 39,
+      "val": "200808",
+      "title": "Aug 2008",
+      "mod": "",
+      "count": 2,
+      "yIndex": 7,
+      "times": [
+        {
+          "starting_time": 1217574000000,
+          "ending_time": 1217574000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 24,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "2006",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster was passed over for promotion to Brigadier General in 2006 and 2007, despite his reputation as one of \"the most celebrated soldiers of the Iraq War.\" Though the Army's rationale for whether a given officer is selected or not selected is not made public, McMaster's initial non-selection attracted media attention.",
+      "sub": "McMaster was passed over for",
+      "sentNr": 41,
+      "val": "2006",
+      "title": "2006",
+      "mod": "",
+      "count": 1,
+      "yIndex": 6,
+      "times": [
+        {
+          "starting_time": 1136073600000,
+          "ending_time": 1136073600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 25,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "2007",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster was passed over for promotion to Brigadier General in 2006 and 2007, despite his reputation as one of \"the most celebrated soldiers of the Iraq War.\" Though the Army's rationale for whether a given officer is selected or not selected is not made public, McMaster's initial non-selection attracted media attention.",
+      "sub": "McMaster was passed over for",
+      "sentNr": 41,
+      "val": "2007",
+      "title": "2007",
+      "mod": "",
+      "count": 1,
+      "yIndex": 9,
+      "times": [
+        {
+          "starting_time": 1167609600000,
+          "ending_time": 1167609600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 26,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "2007",
+      "typ": "date",
+      "touched": false,
+      "sent": "However, in late 2007, Secretary of the Army Pete Geren requested General David Petraeus to return from Iraq to take charge of the promotion board as a way to ensure that the best performers in combat received every consideration for advancement, resulting in McMaster's selection along with other Colonels who had been identified as innovative thinkers.",
+      "sub": "However, in late 2007, Secretary",
+      "sentNr": 42,
+      "val": "2007",
+      "title": "2007",
+      "mod": "",
+      "count": 2,
+      "yIndex": 10,
+      "times": [
+        {
+          "starting_time": 1167609600000,
+          "ending_time": 1167609600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 27,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "2008",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster's name was subsequently released on the promotion list for Brigadier General in 2008.",
+      "sub": "McMaster's name was subsequently released",
+      "sentNr": 43,
+      "val": "2008",
+      "title": "2008",
+      "mod": "",
+      "count": 1,
+      "yIndex": 5,
+      "times": [
+        {
+          "starting_time": 1199145600000,
+          "ending_time": 1199145600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 28,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "August 2008",
+      "typ": "date",
+      "touched": false,
+      "sent": "In August 2008, McMaster assumed duties as Director, Concept Development and Experimentation (later renamed Concept Development and Learning), in the Army Capabilities Integration Center (ARCIC) at Fort Monroe, Virginia, part of U.S. Army Training and Doctrine Command.",
+      "sub": "In August 2008, McMaster assumed",
+      "sentNr": 44,
+      "val": "200808",
+      "title": "Aug 2008",
+      "mod": "",
+      "count": 1,
+      "yIndex": 6,
+      "times": [
+        {
+          "starting_time": 1217574000000,
+          "ending_time": 1217574000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 29,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "twenty years",
+      "typ": "neither",
+      "touched": false,
+      "sent": "In this position McMaster was involved in preparing doctrine to guide the Army over the next ten to twenty years.",
+      "sub": "In this position McMaster was",
+      "sentNr": 45,
+      "val": "????",
+      "title": "????",
+      "mod": "",
+      "count": 3,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": "????",
+          "ending_time": "????"
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 30,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "June 29, 2009",
+      "typ": "date",
+      "touched": false,
+      "sent": "He was promoted on June 29, 2009.",
+      "sub": "He was promoted on June",
+      "sentNr": 46,
+      "val": "20090629",
+      "title": "29 Jun 2009",
+      "mod": "",
+      "count": 1,
+      "yIndex": 3,
+      "times": [
+        {
+          "starting_time": 1246258800000,
+          "ending_time": 1246258800000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 31,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "July 2010",
+      "typ": "date",
+      "touched": false,
+      "sent": "In July 2010 he was selected to be the J-5, Deputy to the Commander for Planning, at ISAF (International Security Assistance Forces) Headquarters in Kabul, Afghanistan.",
+      "sub": "In July 2010 he was",
+      "sentNr": 47,
+      "val": "201007",
+      "title": "Jul 2010",
+      "mod": "",
+      "count": 1,
+      "yIndex": 4,
+      "times": [
+        {
+          "starting_time": 1277967600000,
+          "ending_time": 1277967600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 32,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "2012",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster as commander of the Maneuver Center of Excellence in 2012.",
+      "sub": "McMaster as commander of the",
+      "sentNr": 49,
+      "val": "2012",
+      "title": "2012",
+      "mod": "",
+      "count": 1,
+      "yIndex": 3,
+      "times": [
+        {
+          "starting_time": 1325376000000,
+          "ending_time": 1325376000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 33,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "January 23, 2012",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster was nominated for Major General on January 23, 2012 and selected to be the commander of the Army's Maneuver Center of Excellence at Ft.",
+      "sub": "McMaster was nominated for Major",
+      "sentNr": 50,
+      "val": "20120123",
+      "title": "23 Jan 2012",
+      "mod": "",
+      "count": 1,
+      "yIndex": 5,
+      "times": [
+        {
+          "starting_time": 1327305600000,
+          "ending_time": 1327305600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 34,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "June 2012",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster took the position in June 2012 and was promoted accordingly on August 2, 2012.",
+      "sub": "McMaster took the position in",
+      "sentNr": 52,
+      "val": "201206",
+      "title": "Jun 2012",
+      "mod": "",
+      "count": 1,
+      "yIndex": 6,
+      "times": [
+        {
+          "starting_time": 1338534000000,
+          "ending_time": 1338534000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 35,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "August 2, 2012",
+      "typ": "date",
+      "touched": false,
+      "sent": "McMaster took the position in June 2012 and was promoted accordingly on August 2, 2012.",
+      "sub": "McMaster took the position in",
+      "sentNr": 52,
+      "val": "20120802",
+      "title": "02 Aug 2012",
+      "mod": "",
+      "count": 1,
+      "yIndex": 7,
+      "times": [
+        {
+          "starting_time": 1343890800000,
+          "ending_time": 1343890800000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 36,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "February 2014",
+      "typ": "date",
+      "touched": false,
+      "sent": "In February 2014, Defense Secretary Chuck Hagel nominated McMaster for Lieutenant General and in July 2014, McMaster pinned on his third star when he began his duties as Deputy Commanding General of the Training and Doctrine Command and Director of TRADOC's Army Capabilities Integration Center.",
+      "sub": "In February 2014, Defense Secretary",
+      "sentNr": 53,
+      "val": "201402",
+      "title": "Feb 2014",
+      "mod": "",
+      "count": 1,
+      "yIndex": 4,
+      "times": [
+        {
+          "starting_time": 1391241600000,
+          "ending_time": 1391241600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 37,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "July 2014",
+      "typ": "date",
+      "touched": false,
+      "sent": "In February 2014, Defense Secretary Chuck Hagel nominated McMaster for Lieutenant General and in July 2014, McMaster pinned on his third star when he began his duties as Deputy Commanding General of the Training and Doctrine Command and Director of TRADOC's Army Capabilities Integration Center.",
+      "sub": "In February 2014, Defense Secretary",
+      "sentNr": 53,
+      "val": "201407",
+      "title": "Jul 2014",
+      "mod": "",
+      "count": 1,
+      "yIndex": 3,
+      "times": [
+        {
+          "starting_time": 1404198000000,
+          "ending_time": 1404198000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 38,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "2011",
+      "typ": "date",
+      "touched": false,
+      "sent": "Army Chief of Staff General Martin Dempsey remarked in 2011 that McMaster was \"probably our best Brigadier General.\" McMaster made Time's list of the 100 most influential people in the world in April 2014.",
+      "sub": "Army Chief of Staff General",
+      "sentNr": 54,
+      "val": "2011",
+      "title": "2011",
+      "mod": "",
+      "count": 1,
+      "yIndex": 2,
+      "times": [
+        {
+          "starting_time": 1293840000000,
+          "ending_time": 1293840000000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 39,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "April 2014",
+      "typ": "date",
+      "touched": false,
+      "sent": "Army Chief of Staff General Martin Dempsey remarked in 2011 that McMaster was \"probably our best Brigadier General.\" McMaster made Time's list of the 100 most influential people in the world in April 2014.",
+      "sub": "Army Chief of Staff General",
+      "sentNr": 54,
+      "val": "201404",
+      "title": "Apr 2014",
+      "mod": "",
+      "count": 1,
+      "yIndex": 8,
+      "times": [
+        {
+          "starting_time": 1396335600000,
+          "ending_time": 1396335600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 40,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "the future",
+      "typ": "neither",
+      "touched": false,
+      "sent": "He was hailed as \"the architect of the future U.S. Army\" in the accompanying piece written by retired Lt. Gen. Dave Barno, who commanded U.S. and allied forces in Afghanistan from 2003 to 2005.",
+      "sub": "He was hailed as \"the",
+      "sentNr": 55,
+      "val": "????",
+      "title": "????",
+      "mod": "",
+      "count": 2,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": "????",
+          "ending_time": "????"
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 41,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "2003 to 2005",
+      "typ": "duration",
+      "touched": false,
+      "sent": "He was hailed as \"the architect of the future U.S. Army\" in the accompanying piece written by retired Lt. Gen. Dave Barno, who commanded U.S. and allied forces in Afghanistan from 2003 to 2005.",
+      "sub": "He was hailed as \"the",
+      "sentNr": 55,
+      "val": "2003 - 2005",
+      "title": "2003 - 2005",
+      "mod": "",
+      "count": 4,
+      "yIndex": 2,
+      "times": [
+        {
+          "starting_time": 1041379200000,
+          "ending_time": 1104537600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 42,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "the 21st century",
+      "typ": "duration",
+      "touched": false,
+      "sent": "\"Major General Herbert Raymond McMaster might be the 21st century Army's pre-eminent warrior-thinker,\" Barno wrote, commenting on McMaster's \"impressive command and unconventional exploits in the second Iraq war.\" Barno also stated, \"Recently tapped for his third star, H.R.",
+      "sub": "\"Major General Herbert Raymond McMaster",
+      "sentNr": 56,
+      "val": "2000 - 2100",
+      "title": "2000 - 2100",
+      "mod": "",
+      "count": 3,
+      "yIndex": 1,
+      "times": [
+        {
+          "starting_time": 946684800000,
+          "ending_time": 4102444800000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 43,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "2014",
+      "typ": "date",
+      "touched": false,
+      "sent": "is also the rarest of soldiers-one who has repeatedly bucked the system and survived to join its senior ranks.\" In 2014, retired Army Gen. Jack Keane, a former Army vice chief, commented \"It is heartening to see the Army reward such an extraordinary general officer who is a thought leader and innovator while also demonstrating sheer brilliance as a wartime brigade commander.\"    National Security Advisor     On February 20, 2017, U.S. President Donald Trump named McMaster to serve as his National Security Advisor following the forced resignation of Michael T. Flynn on February 13.",
+      "sub": "is also the rarest of",
+      "sentNr": 57,
+      "val": "2014",
+      "title": "2014",
+      "mod": "",
+      "count": 1,
+      "yIndex": 2,
+      "times": [
+        {
+          "starting_time": 1388534400000,
+          "ending_time": 1388534400000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    },
+    {
+      "id": 44,
+      "docNr": 0,
+      "trackNr": 0,
+      "timex": "February 20, 2017",
+      "typ": "date",
+      "touched": false,
+      "sent": "is also the rarest of soldiers-one who has repeatedly bucked the system and survived to join its senior ranks.\" In 2014, retired Army Gen. Jack Keane, a former Army vice chief, commented \"It is heartening to see the Army reward such an extraordinary general officer who is a thought leader and innovator while also demonstrating sheer brilliance as a wartime brigade commander.\"    National Security Advisor     On February 20, 2017, U.S. President Donald Trump named McMaster to serve as his National Security Advisor following the forced resignation of Michael T. Flynn on February 13.",
+      "sub": "is also the rarest of",
+      "sentNr": 57,
+      "val": "20170220",
+      "title": "20 Feb 2017",
+      "mod": "",
+      "count": 1,
+      "yIndex": 5,
+      "times": [
+        {
+          "starting_time": 1487577600000,
+          "ending_time": 1487577600000
+        }
+      ],
+      "mediaSource": "Enter URL",
+      "mediaCredit": "Credit",
+      "mediaCaption": "Caption",
+      "hasMedia": false,
+      "visible": true
+    }
+  ]
+}
