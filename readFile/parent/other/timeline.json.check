@@ -1,5 +1,4 @@
-{
-  "timexes": [
+[
     {
       "id": 0,
       "docNr": 0,
@@ -1216,4 +1215,3 @@
       "visible": true
     }
   ]
-}

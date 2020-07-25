@@ -1,0 +1,90 @@
+0
+"    Sl No.        State/UT   Circle Office Regional Office Divisional Office  \
+0      1.0  Andhra Pradesh  ANDHRA PRADESH      VIJAYAWADA          PRAKASAM   
+1      2.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL           KURNOOL   
+2      3.0  Andhra Pradesh  ANDHRA PRADESH   VISAKHAPATNAM        AMALAPURAM   
+3      4.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL         ANANTAPUR   
+4      5.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada     Machilipatnam   
+5      6.0  Andhra Pradesh  ANDHRA PRADESH      VIJAYAWADA            TENALI   
+6      7.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada        Bhimavaram   
+7      8.0  Andhra Pradesh  ANDHRA PRADESH      VIJAYAWADA        VIJAYAWADA   
+8      9.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL          TIRUPATI   
+9     10.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada          Prakasam   
+10    11.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL          CHITTOOR   
+11    12.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL          CUDDAPAH   
+12    13.0  Andhra Pradesh  ANDHRA PRADESH   VISAKHAPATNAM     VISAKHAPATNAM   
+13    14.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL          HINDUPUR   
+14    15.0  Andhra Pradesh  ANDHRA PRADESH      VIJAYAWADA             ELURU   
+15    16.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada          Gudivada   
+16    17.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada             Gudur   
+17    18.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL         ANANTAPUR   
+18    19.0  Andhra Pradesh  ANDHRA PRADESH      VIJAYAWADA            GUNTUR   
+19    20.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL          HINDUPUR   
+20     NaN             NaN             NaN             NaN               NaN   
+21    21.0  Andhra Pradesh  ANDHRA PRADESH      VIJAYAWADA             ELURU   
+22    22.0  Andhra Pradesh  ANDHRA PRADESH   Visakhapatnam          Kakinada   
+23    23.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada          Prakasam   
+24    24.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada           Nellore   
+25    25.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL           KURNOOL   
+26    26.0  Andhra Pradesh  ANDHRA PRADESH   Visakhapatnam      NARASARAOPET   
+27    27.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada     Machilipatnam   
+28    28.0  Andhra Pradesh  ANDHRA PRADESH         Kurnool          Chittoor   
+29    29.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada            Guntur   
+30    30.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL           NANDYAL   
+31    31.0  Andhra Pradesh  ANDHRA PRADESH         Kurnool         Proddatur   
+32    32.0  Andhra Pradesh  ANDHRA PRADESH   Visakhapatnam        AMALAPURAM   
+33    33.0  Andhra Pradesh  ANDHRA PRADESH         Kurnool           Nandyal   
+34    34.0  Andhra Pradesh  ANDHRA PRADESH   Visakhapatnam        Srikakulam   
+35    35.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada      Narasaraopet   
+36    36.0  Andhra Pradesh  ANDHRA PRADESH   Visakhapatnam        Anakapalle   
+37    37.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada           Nellore   
+38    38.0  Andhra Pradesh  ANDHRA PRADESH      VIJAYAWADA     TADEPALLIGUDE   
+39    39.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada          Gudivada   
+40    40.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada          Prakasam   
+41    41.0  Andhra Pradesh  ANDHRA PRADESH      Vijayawada        Bhimavaram   
+42    42.0  Andhra Pradesh  ANDHRA PRADESH         KURNOOL          TIRUPATI   
+
+   Name of Operational Post Office ATMs       Pin  
+0                            Addanki SO  523201.0  
+1                             Adoni H.O  518301.0  
+2                        Amalapuram H.O  533201.0  
+3                         Anantapur H.O  515001.0  
+4                        Avanigadda H.O  521121.0  
+5                           Bapatla H.O  522101.0  
+6                        Bhimavaram H.O  534201.0  
+7                     Buckinghampet H.O  520002.0  
+8                       Chandragiri H.O  517101.0  
+9                           Chirala H.O  523155.0  
+10                         Chittoor H.O  517001.0  
+11                         Cuddapah H.O  516001.0  
+12                      Dabagardens S.O  530020.0  
+13                      Dharmavaram H.O  515671.0  
+14                            Eluru H.O  534001.0  
+15                         Gudivada H.O  521301.0  
+16                            Gudur H.O  524101.0  
+17                         Guntakal H.O  515801.0  
+18                           Guntur H.O  522002.0  
+19                         Hindupur H.O  515201.0  
+20                                  NaN       NaN  
+21                  Jangareddygudem H.O  534447.0  
+22                         Kakinada H.O  533001.0  
+23                         Kandukur H.O  523105.0  
+24                           Kavali H.O  524201.0  
+25                          Kurnool H.O  518001.0  
+26                         Macherla S.O  522426.0  
+27                    Machilipatnam H.O  521001.0  
+28                      Madanapalle H.O  517325.0  
+29                      Mangalagiri H.O  522503.0  
+30                          Markpur H.O  523316.0  
+31                       Mydekur LSG SO  516172.0  
+32                       Nagaram LSG SO  533247.0  
+33                          Nandyal H.O  518501.0  
+34                    Narasannapeta S.O  532421.0  
+35                     Narasaraopet H.O  522601.0  
+36                      Narsipatnam H.O  531116.0  
+37                          Nellore H.O  524001.0  
+38                        Nidadavole SO  534301.0  
+39                           Nuzvid H.O  521201.0  
+40                           Ongole H.O  523001.0  
+41                          Palakol H.O  534260.0  
+42                        Palamneru MDG  517408.0  "
